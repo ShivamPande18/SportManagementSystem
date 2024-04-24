@@ -9,8 +9,9 @@ features for financial management, fan engagement, and post-event evaluation. Ov
 Tournament Management System serves as a centralized hub for organizers, teams, and spectators,
 enhancing the overall experience and success of sporting tournaments
 
-## Screenshots
+## Screen[shots
 
+![App Screenshot](https://github.com/ShivamPande18/SportManagementSystem/blob/main/Screenshot/er.png)
 ![App Screenshot](https://github.com/ShivamPande18/SportManagementSystem/blob/main/Screenshot/img%20(1).jpeg)
 ![App Screenshot](https://github.com/ShivamPande18/SportManagementSystem/blob/main/Screenshot/img%20(2).jpeg)
 ![App Screenshot](https://github.com/ShivamPande18/SportManagementSystem/blob/main/Screenshot/img%20(3).jpeg)
