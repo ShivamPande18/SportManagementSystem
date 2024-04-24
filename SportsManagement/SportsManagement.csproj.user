@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEquipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddOfficial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matches.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewAdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewPlayerPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Official.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScheduleMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
