@@ -9,6 +9,11 @@ features for financial management, fan engagement, and post-event evaluation. Ov
 Tournament Management System serves as a centralized hub for organizers, teams, and spectators,
 enhancing the overall experience and success of sporting tournaments
 
+## Tech Stack
+
+Visual Studio C#
+MySql Database (sql/plsql queries)
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/ShivamPande18/SportManagementSystem/blob/main/Screenshot/er.png)
