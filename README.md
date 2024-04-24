@@ -12,6 +12,7 @@ enhancing the overall experience and success of sporting tournaments
 ## Tech Stack
 
 Visual Studio C#
+
 MySql Database (sql/plsql queries)
 
 ## Screenshots
